@@ -1,0 +1,4 @@
+id,date,type,sleeve,amount,price,quantity,cash,external,fee
+A001,2021-11-15,Buy,Renewables,40000,100.96425625092368,396.1798114036427,-40000,0.0,0
+A002,2021-12-31,Fee,Cash,250,1.0,0.0,-250,0.0,250
+A003,2021-11-15,Reclassification,Cash,100000,1.0,0.0,0.0,100000,0
