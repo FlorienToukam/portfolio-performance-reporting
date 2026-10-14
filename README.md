@@ -1,6 +1,6 @@
 # Portfolio reconciliation and performance reporting
 
-I built a reporting extension around a constructed $1 million portfolio. The work follows the reporting process from checking holdings and cash to correcting exceptions, calculating returns and explaining the quarter's results.
+A contribution recorded as income can make a portfolio look more successful than it is. I used a constructed $1 million portfolio to trace that error and three others through the reporting process, from holdings and cash reconciliation to the quarter’s return calculations.
 
 This practice case uses sector-return inputs from a PGIM Forage exercise. Account records, fees, cash flows, prices and reconciliation exceptions are constructed assumptions. They are not actual client records or PGIM investment results.
 
@@ -21,9 +21,7 @@ The quarter ends December 31, 2021. After correcting four seeded exceptions, the
 | Money-weighted less time-weighted return | -1.84 basis points |
 | Closing reconciliation residual | $0.00 |
 
-The most important exception was a $100,000 contribution classified as income. Correcting that classification materially reduced the initially reported return. The remaining corrections addressed a missing purchase, a missing fee and a stale price.
-
-This changed the accuracy of the report. It did not create investment outperformance.
+The largest reporting issue was a $100,000 contribution classified as income. Correcting it reduced the initially reported return. The other corrections addressed a missing purchase, an omitted fee and a stale price. The useful result was an accurate, reconciled report; the corrections did not improve the underlying investment performance.
 
 ## Return calculations
 
